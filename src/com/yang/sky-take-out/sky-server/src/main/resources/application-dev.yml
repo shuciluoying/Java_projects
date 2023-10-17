@@ -1,4 +1,9 @@
 sky:
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5tNGvnqQGSwz66NQeFwu
+    access-key-secret: 0QbZSPr1RJSzDobEbaKTkkIBdM3FSA
+    bucket-name: take-abc
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     host: localhost
@@ -6,3 +11,4 @@ sky:
     database: sky_take_out
     username: root
     password: root
+
